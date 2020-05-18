@@ -1,5 +1,21 @@
+#main{
+  background-color:#eeeeee
+}
+
 img {
     display: block;
     max-width:100%;
     height:auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
 }
